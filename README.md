@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm SHAHID RAZA COMPUTER SCIENCE GRADUATRE FROM DELHI UNIVERSITY</h1>
+<h1 align="center">Hi 👋, I'm SHAHID RAZA </h1>
+<h2 align="center">Computer Science Graduate From Delhi University</h2>
 <h3 align="center">I am a passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahidraza-web&label=Profile%20views&color=0e75b6&style=flat" alt="shahidraza-web" /> </p>
