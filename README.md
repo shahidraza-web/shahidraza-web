@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **AMAZON CLONE BACKEND**
 
-- 👨‍💻 All of my projects are available at [shahidraza-web](shahidraza-web)
-
 - 📫 How to reach me **razaid555@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Xi75XHdVnvYZHC8dyHVCBOdN11asMA_f/view?usp=sharing](https://drive.google.com/file/d/1Xi75XHdVnvYZHC8dyHVCBOdN11asMA_f/view?usp=sharing)
